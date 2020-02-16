@@ -7,6 +7,7 @@ The Trading Environment provides an environment for single-instrument trading
 using historical bar data.
 
 
+
 See
 [here](https://github.com/hackthemarket/gym-trading/blob/master/gym_trading/envs/TradingEnv.ipynb)
 for a jupyter notebook describing basic usage and illustrating a
